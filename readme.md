@@ -1,7 +1,7 @@
 <h1 align="center">
 	<br>
 	<br>
-	<img width="900" alt="Ink" src="assets/makerlog-cli.png">
+	<img width="800" alt="Ink" src="assets/makerlog-cli.png">
 	<br>
 	<br>
 	<br>
