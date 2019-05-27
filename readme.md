@@ -23,5 +23,5 @@ The tool does not store your username or password, it only uses them to get a to
 After you're logged in you can log new tasks:
 ```
 $ makerlog done "I installed makerlog-cli github.com/MihaiVoinea/makerlog-cli"	# Add a new 'done' task
-$ makerlog todo "Start using makerlog-cli github.com/MihaiVoinea/makerlog-cli"		# Add a new 'todo' task
+$ makerlog todo "Start using makerlog-cli github.com/MihaiVoinea/makerlog-cli"	# Add a new 'todo' task
 ```
