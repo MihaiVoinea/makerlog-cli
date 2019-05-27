@@ -3,7 +3,7 @@
 	<div align="left">Makerlog CLI</div>
 </h1>
 
-> An unoffical command line tool for [Makerlog](https://getmakerlog.com).
+> An unofficial command line tool for [Makerlog](https://getmakerlog.com).
 
 [![npm version](https://badge.fury.io/js/makerlog-cli.svg)](https://badge.fury.io/js/makerlog-cli)
 
