@@ -1,0 +1,28 @@
+{
+	"name": "makerlog-cli",
+	"version": "0.0.0",
+	"license": "MIT",
+	"bin": {
+		"makerlog": "./build/cli.js"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"dev": "pastel dev",
+		"build": "pastel build",
+		"prepare": "pastel build"
+	},
+	"files": [
+		"build"
+	],
+	"dependencies": {
+		"configstore": "^4.0.0",
+		"ink": "^2.2.0",
+		"ink-spinner": "^3.0.1",
+		"pasteljs": "^1.0.1",
+		"phin": "^3.3.0",
+		"prop-types": "^15.7.2",
+		"react": "^16.8.6"
+	}
+}

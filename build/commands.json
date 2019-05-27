@@ -1,0 +1,79 @@
+{
+	"commands": [
+		{
+			"path": "/mnt/d/makerlog-cli/commands/login.js",
+			"buildPath": "/mnt/d/makerlog-cli/build/commands/login.js",
+			"name": "login",
+			"description": "Log into your Makerlog account",
+			"args": [
+				{
+					"key": "username",
+					"type": "string",
+					"description": "Your Makerlog username",
+					"isRequired": true,
+					"aliases": [],
+					"positional": false
+				},
+				{
+					"key": "password",
+					"type": "string",
+					"description": "Your Makerlog password",
+					"isRequired": true,
+					"aliases": [],
+					"positional": false
+				}
+			],
+			"subCommands": []
+		},
+		{
+			"path": "/mnt/d/makerlog-cli/commands/index.js",
+			"buildPath": "/mnt/d/makerlog-cli/build/commands/index.js",
+			"name": "index",
+			"description": "Add a new task",
+			"args": [],
+			"subCommands": []
+		},
+		{
+			"path": "/mnt/d/makerlog-cli/commands/done.js",
+			"buildPath": "/mnt/d/makerlog-cli/build/commands/done.js",
+			"name": "done",
+			"description": "Add a new done task",
+			"args": [
+				{
+					"key": "inputArgs",
+					"type": "array",
+					"description": "",
+					"isRequired": false,
+					"aliases": [],
+					"positional": false
+				}
+			],
+			"subCommands": []
+		},
+		{
+			"path": "/mnt/d/makerlog-cli/commands/logout.js",
+			"buildPath": "/mnt/d/makerlog-cli/build/commands/logout.js",
+			"name": "logout",
+			"description": "Log out of your Makerlog account",
+			"args": [],
+			"subCommands": []
+		},
+		{
+			"path": "/mnt/d/makerlog-cli/commands/todo.js",
+			"buildPath": "/mnt/d/makerlog-cli/build/commands/todo.js",
+			"name": "todo",
+			"description": "Add a new to-do task",
+			"args": [
+				{
+					"key": "inputArgs",
+					"type": "array",
+					"description": "",
+					"isRequired": false,
+					"aliases": [],
+					"positional": false
+				}
+			],
+			"subCommands": []
+		}
+	]
+}
