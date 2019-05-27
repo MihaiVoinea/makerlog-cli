@@ -1,8 +1,7 @@
 <h1 align="center">
 	<img width="800" alt="Ink" src="assets/makerlog-cli.png">
-	<br>
 </h1>
-# Makerlog CLI
+## Makerlog CLI
 
 An unoffical command line tool for [Makerlog](https://getmakerlog.com).
 
