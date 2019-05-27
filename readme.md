@@ -1,6 +1,6 @@
 # Makerlog CLI
 
-A command line (unofficial) tool for [Makerlog](https://getmakerlog.com).
+An unoffical command line tool for [Makerlog](https://getmakerlog.com).
 
 ## Install
 
