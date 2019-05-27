@@ -1,9 +1,5 @@
 <h1 align="center">
-	<br>
-	<br>
 	<img width="800" alt="Ink" src="assets/makerlog-cli.png">
-	<br>
-	<br>
 	<br>
 </h1>
 # Makerlog CLI
