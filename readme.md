@@ -3,7 +3,7 @@
 	<div align="left">Makerlog CLI</div>
 </h1>
 
-An unoffical command line tool for [Makerlog](https://getmakerlog.com).
+> An unoffical command line tool for [Makerlog](https://getmakerlog.com).
 
 [![npm version](https://badge.fury.io/js/makerlog-cli.svg)](https://badge.fury.io/js/makerlog-cli)
 
@@ -38,3 +38,4 @@ $ makerlog todo "Start using makerlog-cli github.com/MihaiVoinea/makerlog-cli"	#
 - Mark a task as doing/done
 - Build a CLI user interface
 - Get notifications
+- Write tests

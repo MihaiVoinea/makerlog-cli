@@ -1,6 +1,6 @@
 {
 	"name": "makerlog-cli",
-	"version": "0.1.1",
+	"version": "0.1.3",
 	"description": "An unoffical command line tool for Makerlog.",
 	"license": "MIT",
 	"bin": {
