@@ -7,7 +7,7 @@ A command line (unofficial) tool for [Makerlog](https://getmakerlog.com).
 To install the latest version of Makerlog CLI run this command:
 
 ```
-npm install -g makerlog-cli
+$ npm install -g makerlog-cli
 ```
 
 ## Usage
@@ -15,13 +15,13 @@ npm install -g makerlog-cli
 Authenticate with your Makerlog account:
 
 ```
-makerlog login --username "your_username" --password "your_password
+$ makerlog login --username "your_username" --password "your_password
 ```
 
 The tool does not store your username or password, it only uses them to get a token from Makerlog.
 
 After you're logged in you can log new tasks:
 ```
-makerlog done "I installed makerlog-cli github.com/MihaiVoinea/makerlog-cli"	# Add a new 'done' task
-makerlog todo "Use makerlog-cli github.com/MihaiVoinea/makerlog-cli"		# Add a new 'todo' task
+$ makerlog done "I installed makerlog-cli github.com/MihaiVoinea/makerlog-cli"	# Add a new 'done' task
+$ makerlog todo "Use makerlog-cli github.com/MihaiVoinea/makerlog-cli"		# Add a new 'todo' task
 ```
