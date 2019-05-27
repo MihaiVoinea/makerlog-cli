@@ -5,6 +5,8 @@
 
 An unoffical command line tool for [Makerlog](https://getmakerlog.com).
 
+[![npm version](https://badge.fury.io/js/makerlog-cli.svg)](https://badge.fury.io/js/makerlog-cli)
+
 ## Install
 
 To install the latest version of Makerlog CLI run this command:
