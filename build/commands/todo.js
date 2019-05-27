@@ -120,7 +120,8 @@ parcelRequire = (function (modules, cache, entry, globalName) {
 })({"../package.json":[function(require,module,exports) {
 module.exports = {
   "name": "makerlog-cli",
-  "version": "0.0.0",
+  "version": "0.1.1",
+  "description": "An unoffical command line tool for Makerlog.",
   "license": "MIT",
   "bin": {
     "makerlog": "./build/cli.js"
@@ -132,6 +133,11 @@ module.exports = {
     "dev": "pastel dev",
     "build": "pastel build",
     "prepare": "pastel build"
+  },
+  "author": "Mihai Voinea <hi@voinea.me>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MihaiVoinea/makerlog-cli.git"
   },
   "files": ["build"],
   "dependencies": {
