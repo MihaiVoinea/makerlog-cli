@@ -25,3 +25,11 @@ After you're logged in you can log new tasks:
 $ makerlog done "I installed makerlog-cli github.com/MihaiVoinea/makerlog-cli"	# Add a new 'done' task
 $ makerlog todo "Start using makerlog-cli github.com/MihaiVoinea/makerlog-cli"	# Add a new 'todo' task
 ```
+
+## Planned features:
+
+- Add multiple tasks at once
+- See your remaining tasks
+- Mark a task as doing/done
+- Build a CLI user interface
+- Get notifications
