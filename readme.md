@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img width="800" alt="Ink" src="assets/makerlog-cli.png"><br/>
+	<img width="800" alt="Ink" src="assets/makerlog-cli.png">
 	<div align="left">Makerlog CLI</div>
 </h1>
 
