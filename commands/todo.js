@@ -39,7 +39,7 @@ class Todo extends Component {
 			if (res.statusCode === 200 || res.statusCode === 201) {
 				const message = (
 					<Fragment>
-						<Color bgHex="#009056"> TODO </Color>
+						<Color bgHex="#f39c12"> TODO </Color>
 						{" " + res.body.content}
 					</Fragment>
 				);
