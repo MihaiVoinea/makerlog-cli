@@ -1,3 +1,5 @@
+![Makerlog CLI](https://raw.githubusercontent.com/MihaiVoinea/makerlog-cli/master/assets/makerlog-cli.png)
+
 # Makerlog CLI
 
 An unoffical command line tool for [Makerlog](https://getmakerlog.com).
