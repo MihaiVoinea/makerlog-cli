@@ -1,5 +1,11 @@
-![Makerlog CLI](https://raw.githubusercontent.com/MihaiVoinea/makerlog-cli/master/assets/makerlog-cli.png)
-
+<h1 align="center">
+	<br>
+	<br>
+	<img width="300" alt="Ink" src="assets/makerlog-cli.png">
+	<br>
+	<br>
+	<br>
+</h1>
 # Makerlog CLI
 
 An unoffical command line tool for [Makerlog](https://getmakerlog.com).
