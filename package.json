@@ -1,6 +1,6 @@
 {
 	"name": "makerlog-cli",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "An unoffical command line tool for Makerlog.",
 	"license": "MIT",
 	"bin": {
@@ -24,13 +24,12 @@
 	],
 	"dependencies": {
 		"configstore": "^4.0.0",
-		"ink": "^2.2.0",
+		"ink": "^2.7.1",
 		"ink-spinner": "^3.0.1",
-		"pastel": "^1.0.2",
-		"pasteljs": "^1.0.2",
+		"pastel": "^1.0.3",
 		"phin": "^3.3.0",
 		"prop-types": "^15.7.2",
-		"react": "^16.8.6",
+		"react": "^16.13.0",
 		"uninstall": "0.0.0"
 	}
 }
