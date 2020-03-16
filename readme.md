@@ -6,6 +6,7 @@
 > An unofficial command line tool for [Makerlog](https://getmakerlog.com).
 
 [![npm version](https://badge.fury.io/js/makerlog-cli.svg)](https://badge.fury.io/js/makerlog-cli)
+[makerlog-cli on GitHub Registry](https://github.com/MihaiVoinea/makerlog-cli/packages/154037)
 
 ## Install
 
